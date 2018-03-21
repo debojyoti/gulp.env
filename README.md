@@ -10,7 +10,7 @@
     npm install gulp browser-sync concat --save-dev
 ```
 
-#### Additional packages (Optional packages)
+#### Additional packages (Optional)
 ```
     npm install gulp-sass --save-dev
 ```
