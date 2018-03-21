@@ -1,23 +1,23 @@
-## Blank Development environment to automate and enhance workflow using gulp.js
+### Blank development environment to automate and enhance workflow using gulp.js
 
-### Setup 
+#### Setup 
 
-#### 1 : Clone this repository (Don't ignore the ending .(dot))
+##### 1 : Clone this repository (Don't ignore the ending .(dot))
 ```
 git clone https://github.com/debojyoti/gulp.env .
 ```
 
-#### 2 : Install requrired packages
+##### 2 : Install requrired packages
 ```
 npm install gulp browser-sync gulp-concat --save-dev
 ```
 
-#### Additional packages (Optional)
+##### Additional packages (Optional)
 ```
 npm install gulp-sass --save-dev
 ```
 
-### Run
+#### Run
 ```
 gulp
 ```
