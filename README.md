@@ -15,4 +15,9 @@ npm install gulp browser-sync gulp-concat --save-dev
 npm install gulp-sass --save-dev
 ```
 
+### Run
+```
+gulp
+```
+
 
