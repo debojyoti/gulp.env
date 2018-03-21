@@ -1,8 +1,8 @@
 ### Setup 
 
-#### 1 : Clone this repository 
+#### 1 : Clone this repository (Don't ignore the ending .(dot))
 ```
-git clone https://github.com/debojyoti/gulp.env
+git clone https://github.com/debojyoti/gulp.env .
 ```
 
 #### 2 : Install requrired packages
