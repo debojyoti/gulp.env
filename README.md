@@ -2,17 +2,17 @@
 
 #### 1 : Clone this repository 
 ```
-    git clone https://github.com/debojyoti/gulp.env
+git clone https://github.com/debojyoti/gulp.env
 ```
 
 #### 2 : Install requrired packages
 ```
-    npm install gulp browser-sync concat --save-dev
+npm install gulp browser-sync concat --save-dev
 ```
 
 #### Additional packages (Optional)
 ```
-    npm install gulp-sass --save-dev
+npm install gulp-sass --save-dev
 ```
 
 
