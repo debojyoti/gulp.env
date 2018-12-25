@@ -1,4 +1,4 @@
-### Blank development environment to automate and enhance workflow using gulp.js
+### Development environment boilerplate to automate and enhance workflow using gulp.js
 
 #### Setup 
 
